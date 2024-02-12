@@ -1,0 +1,198 @@
+.main{
+    width: 70%;
+    height: 95vh;
+    /* border: 2px solid#000; */
+    margin-left: 240px;
+}
+.logo{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 1000 ;
+}
+nav{
+    height: 10vh;
+    width: 145vh;
+    text-align: center;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    color: #000;
+    align-items: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    
+}
+nav a{
+    text-decoration: none;
+}
+button{
+    height:6vh;
+    width: 20vh;
+    
+}
+.content{
+    /* border: 1px solid #000; */
+    height: 65vh;
+    width: 653px;
+    /* background-color: #ccfce2; */
+}
+.left{
+    
+    height: 50vh;
+    width: 80vh;
+    margin-left: 40px;
+}
+.Ui{
+    border-radius: 59px;
+    background-color: rgb(12, 74, 155);
+    margin-left:150px ;
+    margin-top: -590px;
+    color: aliceblue;
+    font-size: x-large;
+
+}
+.right{
+    /* border: 1px solid#000; */
+    height: 670px;
+    width: 530px;
+    margin-left: 655px;
+    margin-top: -436px;
+}
+.UII{
+    margin-top:-40px  ;
+}
+a{
+    font-size: x-large;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000 ;
+    
+
+}
+.hire{
+    background-color:#000;
+    font-size: x-large;
+    color: white;
+    
+}
+button:hover{
+    background-color: red;
+}
+a:hover{
+    background-color: yellow;
+}
+.ab{
+    font-size: x-large;
+}
+.text1{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.errow{
+    margin-left: 205px;
+    margin-top: -40px;
+    font-size: x-large;
+
+}
+.baskit{
+    margin-left: 450px;
+    margin-top: -10px;
+    display: flex;
+}
+
+.back{
+    border: 13px solid black;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    
+    
+}
+.baskit2{
+    position: absolute;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+.a84{
+    margin-top: -80px;
+}
+.b84{
+    margin-top: -20px;
+}
+.c84{
+    margin-top: -20px;
+}
+.a572{
+    margin-top: -20px;
+}
+.contect{
+    margin-top: -88px;
+    margin-left: 175px;
+}
+.email{
+    margin-top: -20px;
+}
+.py{
+    margin-top: -500px;
+    margin-left: 350px;
+}
+.js{
+    margin-top: -100px;
+    margin-left: 3px;
+}
+.html{
+    margin-left: 350px;
+    margin-top: 200px;
+}
+.css{
+    margin-left: 4px;
+    margin-top: -100px;
+}
+.foot{
+    border: 1px solid#000;
+    height: 142px;
+    width: 653px;
+    margin-top: -145px;
+    background-color: #000;
+}
+.fot1{
+    margin-left: 30px;
+    color: white;
+}
+.fot2{
+    margin-left: 30px;
+    margin-top: -16px;
+    color: white;
+}
+.fot3{
+    background-color: yellow;
+    height: 35px;
+    width: 100px;
+    margin-left: 30px;
+    margin-top: -16px;
+}
+.fot3:hover{
+    background-color: rgb(220, 20, 190);
+}
+.fot_text{
+    color: white;
+    margin-left: 320px;
+    margin-top: -130px;
+}
+
+.fot_text hr{
+    width: 17rem;
+    margin-right: 74px;
+    margin-top: -20px;
+}
+.sarch1{
+    margin-left: 120px;
+    color:white;
+    background-color:black;
+    /* font-size: xx-large; */
+}
+.sarch1 input{
+    height: 40px;
+    width: 200px;
+
+}
